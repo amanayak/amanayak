@@ -31,9 +31,6 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 [![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-light-mode-only)
 [![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](icons/linkedin-light.svg)](https://www.linkedin.com/in/aman-nayak-016640302#gh-light-mode-only)
-[![website](icons/linkedin-dark.svg)](https://www.linkedin.com/in/aman-nayak-016640302#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](icons/mail-light.svg)](mailto:amanaayak@gmail.com#gh-light-mode-only)
 [![website](icons/mail-dark.svg)](mailto:amanaayak@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
