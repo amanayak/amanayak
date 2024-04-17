@@ -16,7 +16,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
  
 :nerd_face: Currently Improving **Frontend Skills** & learning **MERN Stack** <br>
 🚀 Making Projects in my free time <br>
-:muscle: Raising my bars with **UX Skils** & **Dev Affection** <br>
+:muscle: Raising my bars with **UX Skils** & **Dev Affection** <br> <br>
 :heart: Coffee <br>
 
  <br />
