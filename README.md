@@ -34,6 +34,9 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 [![website](icons/mail-light.svg)](mailto:amanaayak@gmail.com#gh-light-mode-only)
 [![website](icons/mail-dark.svg)](mailto:amanaayak@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](icons/linkedin-light.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only)
+[![website](icons/linkedin-dark.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only)
+&nbsp;&nbsp;
 
  
  
