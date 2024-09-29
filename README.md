@@ -25,8 +25,8 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
   ### Connect with me:
 
 
-[![website](icons/website.png)](https://letscodeweb.vercel.app#gh-light-mode-only)
-[![website](icons/website.png)](https://letscodeweb.vercel.app#gh-dark-mode-only)
+[![website](icons/website.png)](https://codinggujarat.vercel.app#gh-light-mode-only)
+[![website](icons/website.png)](https://codinggujarat.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-light-mode-only)
 [![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-dark-mode-only)
