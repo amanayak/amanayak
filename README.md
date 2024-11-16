@@ -72,8 +72,11 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 </p>
 
 <h3 align="left" >Tech Stack 🥞</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <br>
 <h3 align="left" style="font-weight: 300;">Stats 📊:</h3>
 <div class="row" align="left">
