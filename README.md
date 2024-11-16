@@ -7,7 +7,10 @@
 
 <style>
     * {
+
         font-weight: 300;
+        font-family: 'Poppins',sans-serif;
+
     }
 </style>
 </head>
