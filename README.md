@@ -71,7 +71,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 &nbsp;
 <a href="https://instagram.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinggujarat" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.youtube.com/c/@codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codinggujarat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@codinggujarat" target="blank"><img align="center" src="/icons/youtube-light.svg
 &nbsp;
 <a href="https://codinggujarat.vercel.app" target="blank"><img align="center" src="icons/website.png" alt="@codinggujarat"  /></a>
 &nbsp;
