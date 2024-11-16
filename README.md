@@ -71,7 +71,14 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <p><a href="https://www.buymeacoffee.com/iamamanayak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamamanayak" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" /></p>
+<div class="row">
+<img  src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" /></p>
-
+<style>
+.row{
+  display:flex;
+  align-item:center;
+}
+</style>
