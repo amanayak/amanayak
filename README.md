@@ -21,13 +21,15 @@ Technology excites me and I am always in awe of the change it drives in the worl
 I am dedicated to honing my skills and expanding my knowledge in these fields. Committed to delivering high-quality work, I thrive in dynamic environments where creativity and innovation are encouraged. Let's connect and collaborate on projects that push the boundaries of technology and design..</b></p> <br>
 
 <ul>
-    <li>:nerd_face: Currently Improving <b>FRONTEND SKILLS</b> & learning <b>MERN STACK</b> </li>
-    <li>🚀 Making Projects in my free time</li> 
-    <li>:muscle: Raising my bars with **UX Skils** & **Dev Affection**</li> 
+    <li>:nerd_face: Currently Improving <b>Frontend Skills</b> & learning <b>MERN Stack </b></li><br>
+    <li>🚀 Making Projects in my free time</li> <br>
+    <li>:muscle: Raising my bars with **UX Skils** & **Dev Affection**</li> <br>
     <li>:heart: Coffee</li>
 </ul>
  
+ <br />
 <div align = "center">
+
 </div>
  <h3 align="center"></h3>
 
@@ -37,11 +39,8 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-<hr>
-<p color="gray">__________________________________________________________________________________________________________</p>
 <h3 align="left">🌐 Socials:</h3>
-<div align="left" style="border:1px solid #fff">
+<div align="left">
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only" target="blank"><img align="center" src="icons/linkedin-dark.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only" target="blank"><img align="center" src="icons/linkedin-light.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
 &nbsp;
