@@ -74,7 +74,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <h3 align="left" >Tech Stack 🥞</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,Tailwind,Reactjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,reactjs" />
   </a>
 </p>
 <br>
