@@ -21,9 +21,9 @@ Technology excites me and I am always in awe of the change it drives in the worl
 I am dedicated to honing my skills and expanding my knowledge in these fields. Committed to delivering high-quality work, I thrive in dynamic environments where creativity and innovation are encouraged. Let's connect and collaborate on projects that push the boundaries of technology and design..</b></p> <br>
 
 <ul>
-    <li>:nerd_face: Currently Improving <b>FRONTEND SKILLS</b> & learning <b>MERN STACK</b> </li><br>
-    <li>🚀 Making Projects in my free time</li> <br>
-    <li>:muscle: Raising my bars with **UX Skils** & **Dev Affection**</li> <br>
+    <li>:nerd_face: Currently Improving <b>FRONTEND SKILLS</b> & learning <b>MERN STACK</b> </li>
+    <li>🚀 Making Projects in my free time</li> 
+    <li>:muscle: Raising my bars with **UX Skils** & **Dev Affection**</li> 
     <li>:heart: Coffee</li>
 </ul>
  
