@@ -82,7 +82,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <br>
 
-[Aman's github activity graphtext](https://github-readme-activity-graph.vercel.app/graph?username=amanayak&hide_border=true&theme=nightowl)](https://github.com/nycanshu/github-readme-activity-graph)
+[![Aman's github activity graphtext](https://github-readme-activity-graph.vercel.app/graph?username=amanayak&hide_border=true&theme=nightowl)](https://github.com/amanayak/github-readme-activity-graph)
 [![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nycanshu&hide_border=true&theme=nightowl)](https://github.com/nycanshu/github-readme-activity-graph)
 
 </body>
