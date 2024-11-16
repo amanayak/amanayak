@@ -67,10 +67,11 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <p align="left">
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only" target="blank"><img align="center" src="icons/linkedin-dark.svg" alt="aman-nayak-54753b304" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only" target="blank"><img align="center" src="icons/linkedin-light.svg" alt="aman-nayak-54753b304" height="30" width="30" /></a>
+&nbsp;
 <a href="https://fb.com/codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/facebook-dark.svg" alt="codinggujarat" height="30" width="30" /></a>
 <a href="https://fb.com/codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/faceook-light.svg" alt="codinggujarat" height="30" width="30" /></a>
-<a href="https://instagram.com/codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/instagram-dark.svg" alt="codinggujarat" height="30" width="30" /></a>
 &nbsp;
+<a href="https://instagram.com/codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/instagram-dark.svg" alt="codinggujarat" height="30" width="30" /></a>
 <a href="https://instagram.com/codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/instagram-light.svg" alt="codinggujarat" height="30" width="30" /></a>
 &nbsp;
 <a href="https://www.youtube.com/c/@codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/youtube-light.svg" alt="@codinggujarat" height="30" width="30" /></a>
