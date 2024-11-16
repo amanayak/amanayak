@@ -27,9 +27,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
     <li>:heart: Coffee</li>
 </ul>
  
- <br />
 <div align = "center">
-
 </div>
  <h3 align="center"></h3>
 
@@ -39,6 +37,8 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<hr>
 <h3 align="left">🌐 Socials:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only" target="blank"><img align="center" src="icons/linkedin-dark.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
