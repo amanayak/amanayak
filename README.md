@@ -69,6 +69,18 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <a href="https://fb.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codinggujarat" height="30" width="40" /></a>
 <a href="https://instagram.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinggujarat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codinggujarat" height="30" width="40" /></a>
+[![website](icons/website.png)](https://codinggujarat.vercel.app#gh-light-mode-only)
+[![website](icons/website.png)](https://codinggujarat.vercel.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-light-mode-only)
+[![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](icons/mail-light.svg)](mailto:amanaayak@gmail.com#gh-light-mode-only)
+[![website](icons/mail-dark.svg)](mailto:amanaayak@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](icons/linkedin-light.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only)
+[![website](icons/linkedin-dark.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only)
+&nbsp;&nbsp;
 </p>
 
 <h3 align="left" >Tech Stack 🥞</h3>
