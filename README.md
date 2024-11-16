@@ -66,12 +66,19 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-nayak-54753b304" target="blank"><img align="center" src="icons/linkedin-light.svg" alt="aman-nayak-54753b304" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://fb.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codinggujarat" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinggujarat" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/@codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codinggujarat" height="30" width="40" /></a>
+&nbsp;&nbsp;
 <a href="https://codinggujarat.vercel.app" target="blank"><img align="center" src="icons/website.png" alt="@codinggujarat"  /></a>
+&nbsp;&nbsp;
 <a href="https://amanayakk.vercel.app" target="blank"><img align="center" src="icons/logo1.png" alt="@codinggujarat"  height="40" width="40" /></a>
+&nbsp;&nbsp;
 <a href="mailto:amanaayak@gmail.com#gh-light-mode-only" target="blank"><img align="center" src="icons/mail-light.svg" alt="@codinggujarat"  height="40" width="40" /></a>
+&nbsp;&nbsp;
 <a href="mailto:amanaayak@gmail.com#gh-dark-mode-only" target="blank"><img align="center" src="icons/mail-dark.svg" alt="@codinggujarat"   /></a>
 
 
