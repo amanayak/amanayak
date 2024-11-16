@@ -72,7 +72,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 
 <div class="row" align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
+<img width="50px" src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" />
+<img width="50px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
 </div>
 
