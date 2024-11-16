@@ -65,7 +65,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman-nayak-54753b304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-nayak-54753b304" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-nayak-54753b304" target="blank"><img align="center" src="icons/linkedin-light.svg" alt="aman-nayak-54753b304" height="30" width="40" /></a>
 <a href="https://fb.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codinggujarat" height="30" width="40" /></a>
 <a href="https://instagram.com/codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinggujarat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codinggujarat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codinggujarat" height="30" width="40" /></a>
@@ -77,11 +77,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 &nbsp;&nbsp;
 [![website](icons/mail-light.svg)](mailto:amanaayak@gmail.com#gh-light-mode-only)
 [![website](icons/mail-dark.svg)](mailto:amanaayak@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/linkedin-light.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only)
-[![website](icons/linkedin-dark.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only)
-&nbsp;&nbsp;
-</p>
+
 
 <h3 align="left" >Tech Stack 🥞</h3>
 <p align="center">
