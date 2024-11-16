@@ -74,8 +74,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <h3 align="left" >Tech Stack 🥞</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,angular,aws,bash,bootstrap,c,cs,cpp,devto,django,docker,dotnet,express,figma,firebase,flask,gcp	
-git,github,githubactions,gitlab,gmail,htmx,java,js,jquery,kali,materialui,mongodb,mysql,nestjs,nodejs,npm,ps,php,postgres,pycharm,py,react,redux,sass,sqlite,stackoverflow,styledcomponents,sublime,svg,threejs,ts,vim,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,angular,aws,bash,bootstrap,c,cs,cpp,devto,django,docker,dotnet,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gmail,htmx,java,js,jquery,kali,materialui,mongodb,mysql,nestjs,nodejs,npm,ps,phppostgres,pycharm,py,react,redux,sass,sqlite,stackoverflow,styledcomponents,sublime,svg,threejs,ts,vim,vue" />
     	
   </a>
 </p>
