@@ -80,7 +80,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <br>
 <h3 align="left" style="font-weight: 300;">Stats 📊:</h3>
 <div class="row" align="left">
-<img width="400px"  height="240px"src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" />
+<img width="400px"  height="200px"src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" />
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
 </div>
 
