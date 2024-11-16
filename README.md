@@ -72,7 +72,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanayak&show_icons=true&locale=en&layout=compact" alt="amanayak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanayak&show_icons=true&locale=en" alt="amanayak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" /></p>
 
