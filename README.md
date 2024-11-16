@@ -39,6 +39,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 
 <hr>
+__________________________________________________________________________________________________________
 <h3 align="left">🌐 Socials:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only" target="blank"><img align="center" src="icons/linkedin-dark.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
