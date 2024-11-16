@@ -71,11 +71,11 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <a href="https://fb.com/codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/facebook-dark.svg" alt="codinggujarat" height="25" width="25" /></a>
 <a href="https://fb.com/codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/faceook-light.svg" alt="codinggujarat" height="25" width="25" /></a>
 &nbsp;
-<a href="https://instagram.com/codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/instagram-dark.svg" alt="codinggujarat" height="30" width="30" /></a>
-<a href="https://instagram.com/codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/instagram-light.svg" alt="codinggujarat" height="30" width="30" /></a>
+<a href="https://instagram.com/codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/instagram-dark.svg" alt="codinggujarat" height="25" width="25" /></a>
+<a href="https://instagram.com/codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/instagram-light.svg" alt="codinggujarat" height="25" width="25" /></a>
 &nbsp;
-<a href="https://www.youtube.com/c/@codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/youtube-light.svg" alt="@codinggujarat" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/@codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/youtube-dark.svg" alt="@codinggujarat" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/@codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/youtube-light.svg" alt="@codinggujarat" height="25" width="25" /></a>
+<a href="https://www.youtube.com/c/@codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/youtube-dark.svg" alt="@codinggujarat" height="25" width="25" /></a>
 &nbsp;
 <a href="https://codinggujarat.vercel.app" target="blank"><img align="center" src="icons/website.png" alt="@codinggujarat"  /></a>
 &nbsp;
