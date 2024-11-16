@@ -85,7 +85,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 
 <h3 align="left">💖 Support the Project:</h3>
-<p><a href="https://www.buymeacoffee.com/iamamanayak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamamanayak" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/iamamanayak"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamamanayak" /></a></p><br><br>
 
 <br>
 
