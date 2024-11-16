@@ -20,42 +20,18 @@ Technology excites me and I am always in awe of the change it drives in the worl
 
 I am dedicated to honing my skills and expanding my knowledge in these fields. Committed to delivering high-quality work, I thrive in dynamic environments where creativity and innovation are encouraged. Let's connect and collaborate on projects that push the boundaries of technology and design..</b></p> <br>
 
-
- 
-:nerd_face: Currently Improving **Frontend Skills** & learning **MERN Stack** <br>
-🚀 Making Projects in my free time <br>
-:muscle: Raising my bars with **UX Skils** & **Dev Affection** <br> <br>
-:heart: Coffee <br>
-
- <br />
- 
- 
-  ### Connect with me:
-
-
-[![website](icons/website.png)](https://codinggujarat.vercel.app#gh-light-mode-only)
-[![website](icons/website.png)](https://codinggujarat.vercel.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-light-mode-only)
-[![website](icons/protfilio.png)](https://amanayakk.vercel.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/mail-light.svg)](mailto:amanaayak@gmail.com#gh-light-mode-only)
-[![website](icons/mail-dark.svg)](mailto:amanaayak@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/linkedin-light.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only)
-[![website](icons/linkedin-dark.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only)
-&nbsp;&nbsp;
-
- 
+<ul>
+    <li>:nerd_face: Currently Improving **Frontend Skills** & learning **MERN Stack**</li><br>
+    <li>🚀 Making Projects in my free time</li> <br>
+    <li>:muscle: Raising my bars with **UX Skils** & **Dev Affection**</li> <br>
+    <li>:heart: Coffee</li>
+</ul>
  
  <br />
 <div align = "center">
 
-### Show some ❤️ by starring some of the repositories!
 </div>
- 
-
- <h3 align="center">A passionate frontend developer from India</h3>
+ <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanayak&label=Profile%20views&color=0e75b6&style=flat" alt="amanayak" /> </p>
 
@@ -64,7 +40,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">🌐 Socials:</h3>
-<div align="left" border="1px solid white">
+<div align="left">
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only" target="blank"><img align="center" src="icons/linkedin-dark.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only" target="blank"><img align="center" src="icons/linkedin-light.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
 &nbsp;
