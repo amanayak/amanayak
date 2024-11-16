@@ -34,7 +34,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanayak&label=Profile%20views&color=0e75b6&style=flat" alt="amanayak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=amanayak&theme=onedark" alt="amanayak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=amanayak&theme=light" alt="amanayak" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=amanayak&theme=onedark" alt="amanayak" /></a> </p>
 
