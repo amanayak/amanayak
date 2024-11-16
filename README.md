@@ -17,7 +17,7 @@
 
 Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (Java), Full-Stack  Development, Machine Learning (Python). with a keen eye for detail and a knack for problem-solving, <br>
 
-I am dedicated to honing my skills and expanding my knowledge in these fields. Committed to delivering high-quality work, I thrive in dynamic environments where creativity and innovation are encouraged. Let's connect and collaborate on projects that push the boundaries of technology and design..</b></p> <br>
+I am dedicated to honing my skills and expanding my knowledge in these fields. Committed to delivering high-quality work, I thrive in dynamic environments where creativity and innovation are encouraged. Let's connect and collaborate on projects that push the boundaries of technology and design..</b></p> 
 
 <ul>
     <li>:nerd_face: Currently Improving <b>Frontend Skills</b> & learning <b>MERN Stack </b></li>
