@@ -73,6 +73,8 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 &nbsp;
 <a href="https://www.youtube.com/c/@codinggujarat#gh-light-mode-only" target="blank"><img align="center" src="/icons/youtube-light.svg" alt="@codinggujarat" height="30" width="40" /></a>
 &nbsp;
+<a href="https://www.youtube.com/c/@codinggujarat#gh-dark-mode-only" target="blank"><img align="center" src="/icons/youtube-dark.svg" alt="@codinggujarat" height="30" width="40" /></a>
+&nbsp;
 <a href="https://codinggujarat.vercel.app" target="blank"><img align="center" src="icons/website.png" alt="@codinggujarat"  /></a>
 &nbsp;
 <a href="https://amanayakk.vercel.app" target="blank"><img align="center" src="icons/logo1.png" alt="@codinggujarat"  height="40" width="40" /></a>
