@@ -38,7 +38,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 [![website](icons/linkedin-dark.svg)](https://www.linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only)
 &nbsp;&nbsp;
 
- 
+ aaaaaa
  
  <br />
 <div align = "center">
