@@ -74,7 +74,9 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <h3 align="left" >Tech Stack 🥞</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,reactjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,angular,aws,bash,bootstrap,c,cs,cpp,devto,django,docker,dotnet,express,figma,firebase,flask,gcp	
+git,github,githubactions,gitlab,gmail,htmx,java,js,jquery,kali,materialui,mongodb,mysql,nestjs,nodejs,npm,ps,php,postgres,pycharm,py,react,redux,sass,sqlite,stackoverflow,styledcomponents,sublime,svg,threejs,ts,vim,vue" />
+    	
   </a>
 </p>
 <br>
@@ -84,7 +86,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <img width="400px"height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
 </div>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">💖 Support the Project:</h3>
 <p><a href="https://www.buymeacoffee.com/iamamanayak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamamanayak" /></a></p><br><br>
 
 <br>
