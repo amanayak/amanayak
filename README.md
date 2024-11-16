@@ -10,7 +10,7 @@
 <body style="background-color:black;">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&duration=10000&pause=1000&multiline=true&width=435&height=100&lines=Hey%F0%9F%91%8B+there!+I'm+Aman+Nayak)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&duration=10000&pause=1000&multiline=true&width=435&height=30&lines=Hey%F0%9F%91%8B+there!+I'm+Aman+Nayak)](https://git.io/typing-svg) 
 
 
 <p align = 'left'><b>I am a Information Technology Student at HNGU University,<br>
