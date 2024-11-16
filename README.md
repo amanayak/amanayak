@@ -80,7 +80,8 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <img width="400px"height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
 </div>
 
-
+<br>
+<br>
 [![Aman's github activity graphtext](https://github-readme-activity-graph.vercel.app/graph?username=amanayak&hide_border=true&theme=nightowl)](https://github.com/amanayak/github-readme-activity-graph)
 
 
