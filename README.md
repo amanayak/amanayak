@@ -80,12 +80,14 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <img width="400px"height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&" alt="amanayak" />
 </div>
 
+
+[![Aman's github activity graphtext](https://github-readme-activity-graph.vercel.app/graph?username=amanayak&hide_border=true&theme=nightowl)](https://github.com/amanayak/github-readme-activity-graph)
+
+
 <h3 align="left">💖 Support the Project:</h3>
 <p><a href="https://www.buymeacoffee.com/iamamanayak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamamanayak" /></a></p><br><br>
 
 <br>
-
-[![Aman's github activity graphtext](https://github-readme-activity-graph.vercel.app/graph?username=amanayak&hide_border=true&theme=nightowl)](https://github.com/amanayak/github-readme-activity-graph)
 
 </body>
 
