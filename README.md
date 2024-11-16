@@ -64,7 +64,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">🌐 Socials:</h3>
-<p align="left" border="1px solid white">
+<div align="left" border="1px solid white">
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-light-mode-only" target="blank"><img align="center" src="icons/linkedin-dark.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
 <a href="https://linkedin.com/in/aman-nayak-54753b304#gh-dark-mode-only" target="blank"><img align="center" src="icons/linkedin-light.svg" alt="aman-nayak-54753b304" height="27" width="27" /></a>
 &nbsp;
@@ -85,7 +85,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <a href="mailto:iam.amanayak@gmail.com#gh-light-mode-only" target="blank"><img align="center" src="icons/mail-light.svg" alt="@codinggujarat"  height="40" width="40" /></a>
 <a href="mailto:iam.amanayak@gmail.com#gh-dark-mode-only" target="blank"><img align="center" src="icons/mail-dark.svg" alt="@codinggujarat"   /></a>
 &nbsp;
-</p>
+</div>
 
 
 <h3 align="left" >Tech Stack 🥞</h3>
