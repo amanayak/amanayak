@@ -88,7 +88,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 [![Aman's github activity graphtext](https://github-readme-activity-graph.vercel.app/graph?username=amanayak&hide_border=true&theme=nightowl)](https://github.com/amanayak/github-readme-activity-graph)
 
 
-<h3 align="center"> Support the Project:</h3>
+<h3 align="center">💖 Support the Project:</h3>
 <p align="center" > <a href="https://www.buymeacoffee.com/iamamanayak"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamamanayak" /></a></p><br><br>
 
 <br>
