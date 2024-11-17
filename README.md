@@ -77,9 +77,9 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 <h3 align="left" style="font-weight: 300;">Stats 📊:</h3>
 <div class="row" align="left">
 <img width="400px"  height="140px"src="https://github-readme-stats.vercel.app/api?username=amanayak&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="amanayak" />
-
-
 <img width="400px"height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanayak&theme=highcontrast&hide_border=true" alt="amanayak" />
+
+![amanayak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanayak&theme=highcontrast&hide_border=true)
 
 </div>
 
