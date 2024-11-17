@@ -38,7 +38,7 @@ I am dedicated to honing my skills and expanding my knowledge in these fields. C
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=amanayak&theme=light&&row=2&column=3" alt="amanayak" /></a> </p>
 
-<p align="leftt"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <h3 align="left">🌐 Socials:</h3>
